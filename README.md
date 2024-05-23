@@ -1,0 +1,1 @@
+ Innovatech CodingHub is the technology digital educational platform that involves coding with the programming languages such python, JavaScript and coding languages such as html, css and many more. Our aim is to educate the new generation about technology for the industrious jobs in Africa.
